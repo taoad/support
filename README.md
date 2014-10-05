@@ -47,4 +47,4 @@ http://www.veer.com/products/detail.aspx?image=DVP4924014
 
 オライリー・ジャパン様のご厚意により「4.3 アジャイル度を評価しよう」の「図4-2 自己評価チャート」をダウンロードできるようにしています。印刷してご活用ください。
 
-[自己評価チャート(PDF)](http://fkino.net/taoad/download/self-assessment-chart.pdf)
+[自己評価チャート(PDF)](download/self-assessment-chart.pdf)
