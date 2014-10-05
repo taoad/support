@@ -20,7 +20,7 @@
   <dt>P.175</dt>
   <dd>すべての「リリースすること」のプラクティス<strong>（ただし「ドキュメント」を除く）</strong>が必要だ</dd>
   <dt>P.227</dt>
-  <dd>最終責任時点（Last Respo<s>u==<strong>n</strong>sible Moment）</dd>
+  <dd>最終責任時点（Last Respo<s>u</s><strong>n</strong>sible Moment）</dd>
   <dt>P.292</dt>
   <dd><s>バージョン</s><strong>ビジョン</strong>、機能、ストーリー</dd>
   <dt>P.325</dt>
