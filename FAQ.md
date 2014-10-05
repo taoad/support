@@ -17,7 +17,7 @@ A: その通りです。どう頑張っても合計得点が99点にしかなら
 
 A: Amazonで買えます。
 
-![[情報カード シカ-30](http://www.amazon.co.jp/o/ASIN/B0012NA7BQ/fkino-22)](http://images-jp.amazon.com/images/P/B0012NA7BQ.09.LZZZZZZZ.jpg)
+[![情報カード シカ-30](http://images-jp.amazon.com/images/P/B0012NA7BQ.09.MZZZZZZZ.jpg)](http://www.amazon.co.jp/o/ASIN/B0012NA7BQ/fkino-22)
 
 ----
 
